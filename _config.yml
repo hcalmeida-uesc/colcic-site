@@ -1,6 +1,6 @@
 ---
 title: Colcic Uesc
-timezone: UTC
+timezone: America/Sao_Paulo
 collections:
   posts:
     title: Posts
@@ -21,3 +21,4 @@ defaults:
   values:
     layout: page
 permalink: pretty
+Field name: 
