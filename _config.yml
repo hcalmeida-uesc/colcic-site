@@ -22,3 +22,5 @@ defaults:
     layout: page
 permalink: pretty
 Field name: 
+
+theme: jekyll-theme-cayman
